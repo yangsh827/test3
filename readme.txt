@@ -5,3 +5,6 @@ Git is free software.
 lalala
 hahaha
 Git has a mutable index called stage.
+zzzzzzzzz
+tttttttt
+uuuuuuuuuuuu
